@@ -90,3 +90,35 @@ footer {
     background-color: #f44336;
     color: white;
 }
+
+.contact {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    text-align: center;
+    color: #333;
+}
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact-info div {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+.contact-info label {
+    font-weight: bold;
+}
+.h1 {
+    h1{
+    text-align: center;
+    color:#02000a;
+    }
+}
+.back{text-align: center;}
+
